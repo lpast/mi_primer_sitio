@@ -1,4 +1,4 @@
-baseURL = "https://lpast.github.io/mi_primer_sitio/"
+baseURL = "https://lpast.github.io/mi_primer_sitio/docs"
 languageCode = "en-us"
 title = "Mi primer Sitio"
 theme = "color-your-world"
@@ -13,11 +13,13 @@ defaultContentLanguage="es"
   	title = "Mi primer Sitio"
   	languageName="Español"
   	landingPageURL="https://miprimersitio.org/"
+	ContentDir ="content/es"
 
   [Languages.en]
   	title = "Mi Site"
   	languageName="English"
   	landingPageURL="https://miprimersitio.org/"
+	ContentDir ="content/en"
 
 [params]
 	name="lorena"
