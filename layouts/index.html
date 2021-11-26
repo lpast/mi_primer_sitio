@@ -10,10 +10,9 @@
         <header>
         
           <h1>{{ .Title | emojify }}</h1>
-          <p>Holaaa!!</p>
-          <p>Bienvenid@ a esta primera prueba de hugo.</p>
-           <p>Todo lo que haga van a ser pruebas de la primera tarea de dwes</p> 
-          
+          <p>HOLAAAA!!!!!!!</p>
+          <p>Bienvenid@s a este mi primer sitio.</p>
+          <p>En él intentare desarrollar los diferentes proyectos que piden en el curso, poniendo en práctica los conocimientos adquiridos.</p> 
           
           {{ if .Params.cover }}
             {{ partial "cover" . }}
@@ -28,6 +27,8 @@
     {{ else }}
     
       <h1>{{ .Title | emojify | default (T "posts") }}</h1>
+      
+
       
       {{ partial "post-list" . }}
       {{ partial "pagination" . }}

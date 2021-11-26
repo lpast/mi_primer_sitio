@@ -1,7 +1,8 @@
-baseURL = "http://sitiodelorena.org/"
+baseURL = "http://miprimersitio.org/"
 languageCode = "en-us"
 title = "Mi primer Sitio"
 theme = "color-your-world"
+
 
 #Idioma por defecto
 defaultContentLanguage="es"
@@ -11,46 +12,42 @@ defaultContentLanguage="es"
   [Languages.es]
   	title = "Mi primer Sitio"
   	languageName="Español"
-  	landingPageURL="https://sitiodelorena.org"
+  	landingPageURL="https://miprimersitio.org/"
 
   [Languages.en]
   	title = "Mi Site"
-  	languageName="Ingles"
-  	landingPageURL="https://sitiodelorena.org"
-	
+  	languageName="English"
+  	landingPageURL="https://miprimersitio.org/"
+
 [params]
 	name="lorena"
 	description="Practica 1 de dwes"
 	enableRSS=true
 
-
-
-
-
-[menu]
-  [[menu.main]]
-	identifier = "Home"
-	name="Home"
-	title = "Home"
-	url = "/home/"
-	weight = 1
 [[menu.main]]
 	identifier = "Inicio"
-	name="Inicio"
+	name="<i class='fas fa-home'></i>"
 	title = "Inicio"
 	url = "/inicio/"
-	weight = 2
+	weight = 1
   [[menu.main]]
 	identifier = "presentacion"
 	name = "presentacion"
 	title = "Presentación"
 	url = "/presentacion/"
-	weight = 3
+	weight = 2
   [[menu.main]]
 	identifier = "DWES01"
 	name = "DWES01"
 	title = "DWES01"
 	url = "/dwes01/"
+	weight = 3
+[menu]
+  [[menu.main]]
+	identifier = "Contacto"
+	name="Contacto"
+	title = "Contacto"
+	url = "/contacto/"
 	weight = 4
 
 
@@ -60,5 +57,3 @@ twitter="https://www.twitter.com/"
 github="https://wwww.github.com/"
  
 
-  
-  
