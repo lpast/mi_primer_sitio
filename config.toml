@@ -1,4 +1,4 @@
-baseURL = "https://lpast.github.io/mi_primer_sitio"
+baseURL = "https://lpast.github.io/mi_primer_sitio/docs"
 languageCode = "en-us"
 title = "Mi primer Sitio"
 theme = "color-your-world"

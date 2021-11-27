@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi primer Sitio</title>
-    <link>https://lpast.github.io/mi_primer_sitio/docs/</link>
+    <link>https://lpast.github.io/mi_primer_sitio/docs/dwes01/</link>
     <description>Practica 1 de dwes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 21:07:57 +0100</lastBuildDate><atom:link href="https://lpast.github.io/mi_primer_sitio/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 21:41:25 +0100</lastBuildDate><atom:link href="https://lpast.github.io/mi_primer_sitio/docs/dwes01/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Apartado 1. Contenido del sitio web con hugo</title>
         <link>https://lpast.github.io/mi_primer_sitio/docs/dwes01/dwes01/</link>
@@ -40,35 +40,6 @@ PROCESO DE COMUNICACION CLIENTE-SERVIDOR
         <description>HERRAMIENTAS PARA EL DESARROLLO WEB A continuación se nombra una serie de herramientas, útiles para el desarrollo web. Se hará una breve descripción sobre cada una.
 Babel WebPack Prototype Polyfill Se trata de un conjunto de herramientas sirven para compilar y convertir el código ECMAScript en una versión de JavaScript compatible.
 PHP Frameworks de php Se trata de una plataforma para crear apliaciones web PHP. Los frameworks de PHP proporcionan bibliotecas de código de uso común.</description>
-      </item>
-    
-      <item>
-        <title>Inicio</title>
-        <link>https://lpast.github.io/mi_primer_sitio/docs/inicio/</link>
-        <pubDate>Thu, 18 Nov 2021 20:50:47 +0100</pubDate>
-        
-        <guid>https://lpast.github.io/mi_primer_sitio/docs/inicio/</guid>
-        <description>Introducción al sitio</description>
-      </item>
-    
-      <item>
-        <title>Presentación</title>
-        <link>https://lpast.github.io/mi_primer_sitio/docs/presentacion/</link>
-        <pubDate>Thu, 18 Nov 2021 20:50:47 +0100</pubDate>
-        
-        <guid>https://lpast.github.io/mi_primer_sitio/docs/presentacion/</guid>
-        <description>Pequeña presentación sobre mí</description>
-      </item>
-    
-      <item>
-        <title>Contacto</title>
-        <link>https://lpast.github.io/mi_primer_sitio/docs/contacto/</link>
-        <pubDate>Thu, 18 Nov 2021 00:48:36 +0100</pubDate>
-        
-        <guid>https://lpast.github.io/mi_primer_sitio/docs/contacto/</guid>
-        <description>title=&amp;quot;dwes02.md&amp;rdquo; banner=&amp;quot;images/proceso_de_carga.png&amp;rdquo;
-social site [[params.social]] icon = &amp;ldquo;ti-facebook&amp;rdquo; URL = &amp;ldquo;www.facebook.es&amp;rdquo;
-[[params.social]] &amp;quot;instagram&amp;quot;&amp;gt; icon = &amp;ldquo;ti-instagram&amp;rdquo; URL = &amp;ldquo;www.instagram.es&amp;rdquo;</description>
       </item>
     
   </channel>
