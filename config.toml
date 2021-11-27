@@ -12,45 +12,75 @@ defaultContentLanguage="es"
   [Languages.es]
   	title = "Mi primer Sitio"
   	languageName="Español"
-  	landingPageURL="https://miprimersitio.org/"
 	ContentDir ="content/es"
+	weight = 1
+
+[[Languages.es.menu.main]]
+	identifier = "Inicio"
+	name="<i class='fas fa-home'></i> Inicio"
+	title = "Inicio"
+	url = "/inicio/"
+	weight = 2
+
+[[Languages.es.menu.main]]
+	identifier = "presentacion"
+	name = "<i class='fas fa-dove'></i> presentacion"
+	title = "Presentación"
+	url = "/presentacion/"
+	weight = 3
+[[Languages.es.menu.main]]
+	identifier = "DWES01"
+	name = "<i class='fas fa-file-word'></i> DWES01"
+	title = "DWES01"
+	url = "/dwes01/"
+	weight = 4
+[[Languages.es.menu.main]]
+	identifier = "Contacto"
+	name="<i class='fas fa-address-card'></i> Contacto"
+	title = "Contacto"
+	url = "/contacto/"
+	weight = 5
 
   [Languages.en]
   	title = "Mi Site"
   	languageName="English"
-  	landingPageURL="https://miprimersitio.org/"
 	ContentDir ="content/en"
+	weight = 2
+
+
+[[Languages.en.menu.main]]
+	identifier = "Home"
+	name="<i class='fas fa-home'></i> Home"
+	title = "Home"
+	url = "/en/inicio/"
+	weight = 1
+[[Languages.en.menu.main]]
+	identifier = "presentation"
+	name ="<i class='fas fa-dove'></i> presentation"
+	title = "presentation"
+	url = "/en/presentacion/"
+	weight = 2
+[[Languages.en.menu.main]]
+	identifier = "DWES01"
+	name = "<i class='fas fa-file-word'></i> DWES01"
+	title = "DWES01"
+	url = "/en/dwes01/"
+	weight = 3
+[[Languages.en.menu.main]]
+	identifier = "Contact"
+	name="<i class='fas fa-address-card'></i> Contact"
+	title = "Contact"
+	url = "/en/contacto/"
+	weight = 4
 
 [params]
-	name="lorena"
+	author="lorena m"
 	description="Practica 1 de dwes"
 	enableRSS=true
+	
 
-[[menu.main]]
-	identifier = "Inicio"
-	name="<i class='fas fa-home'></i>Inicio"
-	title = "Inicio"
-	url = "/inicio/"
-	weight = 1
-  [[menu.main]]
-	identifier = "presentacion"
-	name = "presentacion"
-	title = "Presentación"
-	url = "/presentacion/"
-	weight = 2
-  [[menu.main]]
-	identifier = "DWES01"
-	name = "DWES01"
-	title = "DWES01"
-	url = "/dwes01/"
-	weight = 3
-[menu]
-  [[menu.main]]
-	identifier = "Contacto"
-	name="Contacto"
-	title = "Contacto"
-	url = "/contacto/"
-	weight = 4
+
+
 
 
 

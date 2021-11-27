@@ -6,4 +6,5 @@ description: página principal del sitio
 ---
 
 
+
 En está primera práctica  conoceré el funcionamiento del generador de sitios estáticos hugo.

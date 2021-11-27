@@ -167,3 +167,6 @@ other = "Box containing expression."
 
 [Shortcuts-Title]
 other = "Más opciones"
+
+[Search-placeholder]
+other = "Buscar..."
