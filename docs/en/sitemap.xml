@@ -4,7 +4,7 @@
   
   
     <url>
-      <loc>https://lpast.github.io/mi_primer_sitio/docs/en/dwes01/dwes02/</loc>
+      <loc>http://example.org/en/dwes01/dwes02/</loc>
       
       
         <lastmod>2021-11-18T21:41:25+01:00</lastmod>
@@ -19,14 +19,14 @@
           <xhtml:link
             rel="alternate"
             hreflang="es"
-            href="https://lpast.github.io/mi_primer_sitio/docs/dwes01/dwes02/"
+            href="http://example.org/dwes01/dwes02/"
             />
         
         
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://lpast.github.io/mi_primer_sitio/docs/en/dwes01/dwes02/"
+          href="http://example.org/en/dwes01/dwes02/"
           />
       
       
@@ -35,7 +35,7 @@
   
   
     <url>
-      <loc>https://lpast.github.io/mi_primer_sitio/docs/en/dwes01/dwes01/</loc>
+      <loc>http://example.org/en/dwes01/dwes01/</loc>
       
       
         <lastmod>2021-11-18T21:41:25+01:00</lastmod>
@@ -50,14 +50,14 @@
           <xhtml:link
             rel="alternate"
             hreflang="es"
-            href="https://lpast.github.io/mi_primer_sitio/docs/dwes01/dwes01/"
+            href="http://example.org/dwes01/dwes01/"
             />
         
         
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://lpast.github.io/mi_primer_sitio/docs/en/dwes01/dwes01/"
+          href="http://example.org/en/dwes01/dwes01/"
           />
       
       
@@ -66,7 +66,7 @@
   
   
     <url>
-      <loc>https://lpast.github.io/mi_primer_sitio/docs/en/dwes01/dwes03/</loc>
+      <loc>http://example.org/en/dwes01/dwes03/</loc>
       
       
         <lastmod>2021-11-18T21:41:25+01:00</lastmod>
@@ -81,14 +81,14 @@
           <xhtml:link
             rel="alternate"
             hreflang="es"
-            href="https://lpast.github.io/mi_primer_sitio/docs/dwes01/dwes03/"
+            href="http://example.org/dwes01/dwes03/"
             />
         
         
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://lpast.github.io/mi_primer_sitio/docs/en/dwes01/dwes03/"
+          href="http://example.org/en/dwes01/dwes03/"
           />
       
       
@@ -97,7 +97,7 @@
   
   
     <url>
-      <loc>https://lpast.github.io/mi_primer_sitio/docs/en/home/</loc>
+      <loc>http://example.org/en/home/</loc>
       
       
         <lastmod>2021-11-18T20:50:47+01:00</lastmod>
@@ -114,7 +114,7 @@
   
   
     <url>
-      <loc>https://lpast.github.io/mi_primer_sitio/docs/en/presentation/</loc>
+      <loc>http://example.org/en/presentation/</loc>
       
       
         <lastmod>2021-11-18T20:50:47+01:00</lastmod>
@@ -131,7 +131,7 @@
   
   
     <url>
-      <loc>https://lpast.github.io/mi_primer_sitio/docs/en/contact/</loc>
+      <loc>http://example.org/en/contact/</loc>
       
       
         <lastmod>2021-11-18T00:48:36+01:00</lastmod>
