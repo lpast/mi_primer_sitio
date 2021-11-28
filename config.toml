@@ -1,4 +1,3 @@
-baseURL = "http://example.org/"
 baseURL = "https://lpast.github.io/mi_primer_sitio/"
 languageCode = "en-us"
 title = "Mi primer Sitio"
