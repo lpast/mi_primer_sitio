@@ -1,5 +1,5 @@
-#baseURL = "http://example.org/"
-baseURL = "https://lpast.github.io/mi_primer_sitio/docs"
+baseURL = "http://example.org/"
+#baseURL = "https://lpast.github.io/mi_primer_sitio/docs"
 languageCode = "en-us"
 title = "Mi primer Sitio"
 theme = "color-your-world"
