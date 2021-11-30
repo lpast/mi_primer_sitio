@@ -1,7 +1,13 @@
 ---
 title: "Section 1. Website content with hugo"
-#date: 2021-11-18T21:41:25+01:00
+date: 2021-11-19T06:01:19+01:00
 draft: false
+weight: 1
 ---
 
-This is my site created with hugo
+
+
+
+Paragraph 1
+
+

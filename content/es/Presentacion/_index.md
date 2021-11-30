@@ -1,8 +1,8 @@
 ---
-title: "Mi primer Sitio"
+title: "Presentación"
 date: 2021-11-18T21:07:57+01:00
 draft: false
-description: página principal del sitio 
+description: pequeña presentacion sobre mi 
 ---
 
 

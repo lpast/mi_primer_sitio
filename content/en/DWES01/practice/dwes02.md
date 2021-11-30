@@ -2,6 +2,7 @@
 title: "Section 2. Client-Server communication process"
 date: 2021-11-19T06:01:19+01:00
 draft: false
+weight: 2
 ---
 
 ** CLIENT / SERVER ARCHITECTURE **
@@ -39,5 +40,7 @@ Three main elements are distinguished:
 The diagram below reflects the steps cited above.
 
 
-![Loading process](/images/proceso_carga_web.png)
+! [Loading process] (/ images / Proceso_carga_web.png)
+
+
 

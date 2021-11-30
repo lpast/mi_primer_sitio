@@ -57,7 +57,7 @@ defaultContentLanguage="es"
 	weight = 1
 [[Languages.en.menu.main]]
 	identifier = "presentation"
-	name ="<i class='fas fa-dove'></i> presentation"
+	name ="<i class='fas fa-dove'></i> Presentation"
 	title = "presentation"
 	url = "presentation"
 	weight = 2
