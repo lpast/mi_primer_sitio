@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi primer Sitio</title>
-    <link>http://example.org/</link>
+    <link>https://lpast.github.io/mi_primer_sitio/</link>
     <description>Practica 1 de dwes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Nov 2021 21:07:57 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Inicio con hugo</title>
-        <link>http://example.org/dwes01/dwes01/</link>
+        <link>https://lpast.github.io/mi_primer_sitio/dwes01/dwes01/</link>
         <pubDate>Thu, 18 Nov 2021 21:41:25 +0100</pubDate>
         
-        <guid>http://example.org/dwes01/dwes01/</guid>
+        <guid>https://lpast.github.io/mi_primer_sitio/dwes01/dwes01/</guid>
         <description>Apartado 1</description>
       </item>
     
       <item>
         <title>Apartado 2. Proceso de comunicación Cliente-Servidor</title>
-        <link>http://example.org/dwes01/dwes02/</link>
+        <link>https://lpast.github.io/mi_primer_sitio/dwes01/dwes02/</link>
         <pubDate>Thu, 18 Nov 2021 21:41:25 +0100</pubDate>
         
-        <guid>http://example.org/dwes01/dwes02/</guid>
+        <guid>https://lpast.github.io/mi_primer_sitio/dwes01/dwes02/</guid>
         <description>ARQUITECTURA CLIENTE/SERVIDOR
 Se distinguen tres elementos principales:
 1.- El cliente: navegadores web.
@@ -33,10 +33,10 @@ PROCESO DE COMUNICACION CLIENTE-SERVIDOR
     
       <item>
         <title>Apartado 3. Resuelve el puzzle</title>
-        <link>http://example.org/dwes01/dwes03/</link>
+        <link>https://lpast.github.io/mi_primer_sitio/dwes01/dwes03/</link>
         <pubDate>Thu, 18 Nov 2021 21:41:25 +0100</pubDate>
         
-        <guid>http://example.org/dwes01/dwes03/</guid>
+        <guid>https://lpast.github.io/mi_primer_sitio/dwes01/dwes03/</guid>
         <description>HERRAMIENTAS PARA EL DESARROLLO WEB A continuación se nombra una serie de herramientas, útiles para el desarrollo web. Se hará una breve descripción sobre cada una.
 Babel WebPack Prototype Polyfill Se trata de un conjunto de herramientas sirven para compilar y convertir el código ECMAScript en una versión de JavaScript compatible.
 PHP Frameworks de php Se trata de una plataforma para crear apliaciones web PHP. Los frameworks de PHP proporcionan bibliotecas de código de uso común.</description>
@@ -44,28 +44,28 @@ PHP Frameworks de php Se trata de una plataforma para crear apliaciones web PHP.
     
       <item>
         <title>Inicio</title>
-        <link>http://example.org/inicio/</link>
+        <link>https://lpast.github.io/mi_primer_sitio/inicio/</link>
         <pubDate>Thu, 18 Nov 2021 20:50:47 +0100</pubDate>
         
-        <guid>http://example.org/inicio/</guid>
+        <guid>https://lpast.github.io/mi_primer_sitio/inicio/</guid>
         <description>Introducción al sitio</description>
       </item>
     
       <item>
         <title>Presentación</title>
-        <link>http://example.org/presentacion/</link>
+        <link>https://lpast.github.io/mi_primer_sitio/presentacion/</link>
         <pubDate>Thu, 18 Nov 2021 20:50:47 +0100</pubDate>
         
-        <guid>http://example.org/presentacion/</guid>
+        <guid>https://lpast.github.io/mi_primer_sitio/presentacion/</guid>
         <description>Pequeña presentación sobre mí</description>
       </item>
     
       <item>
         <title>Contacto</title>
-        <link>http://example.org/contacto/</link>
+        <link>https://lpast.github.io/mi_primer_sitio/contacto/</link>
         <pubDate>Thu, 18 Nov 2021 00:48:36 +0100</pubDate>
         
-        <guid>http://example.org/contacto/</guid>
+        <guid>https://lpast.github.io/mi_primer_sitio/contacto/</guid>
         <description>title=&amp;quot;dwes02.md&amp;rdquo; banner=&amp;quot;images/proceso_de_carga.png&amp;rdquo;
 social site [[params.social]] icon = &amp;ldquo;ti-facebook&amp;rdquo; URL = &amp;ldquo;www.facebook.es&amp;rdquo;
 [[params.social]] &amp;quot;instagram&amp;quot;&amp;gt; icon = &amp;ldquo;ti-instagram&amp;rdquo; URL = &amp;ldquo;www.instagram.es&amp;rdquo;</description>
