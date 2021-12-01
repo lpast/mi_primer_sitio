@@ -2,28 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi Site</title>
-    <link>https://lpast.github.io/mi_primer_sitio/en/dwes01/</link>
+    <link>http://example.org/en/dwes01/</link>
     <description>Practica 1 de dwes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 20:50:47 +0100</lastBuildDate><atom:link href="https://lpast.github.io/mi_primer_sitio/en/dwes01/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 21:41:25 +0100</lastBuildDate><atom:link href="http://example.org/en/dwes01/index.xml" rel="self" type="application/rss+xml" />
       <item>
-        <title>Section 3. Solve the puzzle</title>
-        <link>https://lpast.github.io/mi_primer_sitio/en/dwes01/dwes03/</link>
+        <title>Apartado 2. Proceso de comunicación Cliente-Servidor</title>
+        <link>http://example.org/en/dwes01/dwes02/</link>
         <pubDate>Thu, 18 Nov 2021 21:41:25 +0100</pubDate>
         
-        <guid>https://lpast.github.io/mi_primer_sitio/en/dwes01/dwes03/</guid>
-        <description>TOOLS FOR WEB DEVELOPMENT A series of tools are listed below, useful for web development. A brief description will be made of each one.
-** Babel WebPack Prototype Polyfill ** It is a set of tools used to compile and convert the ECMAScript code into a compatible version of JavaScript.
-** PHP Frameworks by php ** It is a platform for creating PHP web applications. PHP frameworks provide commonly used code libraries.</description>
-      </item>
-    
-      <item>
-        <title>Section 2. Client-Server communication process</title>
-        <link>https://lpast.github.io/mi_primer_sitio/en/dwes01/dwes02/</link>
-        <pubDate>Fri, 19 Nov 2021 06:01:19 +0100</pubDate>
-        
-        <guid>https://lpast.github.io/mi_primer_sitio/en/dwes01/dwes02/</guid>
+        <guid>http://example.org/en/dwes01/dwes02/</guid>
         <description>** CLIENT / SERVER ARCHITECTURE **
 Three main elements are distinguished:
 1.- The cliente: web browsers.
@@ -34,12 +23,23 @@ Three main elements are distinguished:
       </item>
     
       <item>
-        <title>Section 1. Website content with hugo</title>
-        <link>https://lpast.github.io/mi_primer_sitio/en/dwes01/dwes01/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <title>Section 1. Content of the website with hugo</title>
+        <link>http://example.org/en/dwes01/dwes01/</link>
+        <pubDate>Thu, 18 Nov 2021 21:41:25 +0100</pubDate>
         
-        <guid>https://lpast.github.io/mi_primer_sitio/en/dwes01/dwes01/</guid>
-        <description>This is my site created with hugo</description>
+        <guid>http://example.org/en/dwes01/dwes01/</guid>
+        <description>Section 1</description>
+      </item>
+    
+      <item>
+        <title>Section 3. Solve the puzzle</title>
+        <link>http://example.org/en/dwes01/dwes03/</link>
+        <pubDate>Thu, 18 Nov 2021 21:41:25 +0100</pubDate>
+        
+        <guid>http://example.org/en/dwes01/dwes03/</guid>
+        <description>TOOLS FOR WEB DEVELOPMENT A series of tools are listed below, useful for web development. A brief description will be made of each one.
+** Babel WebPack Prototype Polyfill ** It is a set of tools used to compile and convert the ECMAScript code into a compatible version of JavaScript.
+** PHP Frameworks by php ** It is a platform for creating PHP web applications. PHP frameworks provide commonly used code libraries.</description>
       </item>
     
   </channel>
