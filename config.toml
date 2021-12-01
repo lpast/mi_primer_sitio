@@ -1,7 +1,7 @@
 baseURL = "https://lpast.github.io/mi_primer_sitio/"
 languageCode = "en-us"
 title = "Mi primer Sitio"
-theme = "color-your-world"
+theme = "Color-Your-World"
 
 
 #Idioma por defecto
