@@ -1,7 +1,7 @@
-baseURL = "https://lpast.github.io/mi_primer_sitio/"
-languageCode = "en-us"
-title = "Mi primer Sitio"
-theme = "color-your-world"
+baseURL = 'https://lpast.github.io/mi_primer_sitio/'
+languageCode = 'en-us'
+title = 'Mi primer Sitio'
+theme = 'color-your-world'
 
 
 #Idioma por defecto
@@ -12,32 +12,31 @@ defaultContentLanguage="es"
   [Languages.es]
   	title = "Mi primer Sitio"
   	languageName="Español"
-	ContentDir ="content/es"
+	ContentDir ="content/es/"
 	weight = 1
 
 [[Languages.es.menu.main]]
 	identifier = "Inicio"
-	name="<i class='fas fa-home'></i> Inicio"
+	name="<i class='fas fa-house-user'></i> Inicio"
 	title = "Inicio"
 	url = "inicio"
-	
-	weight = 2
+	weight = 1
 
 [[Languages.es.menu.main]]
 	identifier = "presentacion"
-	name = "<i class='fas fa-dove'></i> presentacion"
+	name = "<i class='fas fa-dove'></i> Presentacion"
 	title = "Presentación"
 	url = "presentacion"
 	weight = 3
 [[Languages.es.menu.main]]
 	identifier = "DWES01"
-	name = "<i class='fas fa-file-word'></i> DWES01"
+	name = "<i class='fa-solid fa-file-word'></i> DWES01"
 	title = "DWES01"
 	url = "dwes01"
 	weight = 4
 [[Languages.es.menu.main]]
 	identifier = "Contacto"
-	name="<i class='fas fa-address-card'></i> Contacto"
+	name="<i class='fa-solid fa-address-card'></i> Contacto"
 	title = "Contacto"
 	url = "contacto"
 	weight = 5
@@ -45,31 +44,31 @@ defaultContentLanguage="es"
   [Languages.en]
   	title = "Mi Site"
   	languageName="English"
-	ContentDir ="content/en"
+	ContentDir ="content/en/"
 	weight = 2
 
 
 [[Languages.en.menu.main]]
 	identifier = "Home"
-	name="<i class='fas fa-home'></i> Home"
+	name="<i class='fas fa-house-user'></i>  Home"
 	title = "Home"
 	url = "home"
 	weight = 1
 [[Languages.en.menu.main]]
 	identifier = "presentation"
-	name ="<i class='fas fa-dove'></i> Presentation"
+	name ="<i class='fa-solid fa-dove'></i> Presentation"
 	title = "presentation"
 	url = "presentation"
 	weight = 2
 [[Languages.en.menu.main]]
 	identifier = "DWES01"
-	name = "<i class='fas fa-file-word'></i> DWES01"
+	name = "<i class='fa-solid fa-file-word'></i> DWES01"
 	title = "DWES01"
 	url = "dwes01"
 	weight = 3
 [[Languages.en.menu.main]]
 	identifier = "Contact"
-	name="<i class='fas fa-address-card'></i> Contact"
+	name="<i class='fa-solid fa-address-card'></i> Contact"
 	title = "Contact"
 	url = "contact"
 	weight = 4

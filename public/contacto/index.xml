@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi primer Sitio</title>
+    <link>https://lpast.github.io/mi_primer_sitio/contacto/</link>
+    <description>Practica 1 de dwes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Nov 2021 21:07:57 +0100</lastBuildDate><atom:link href="https://lpast.github.io/mi_primer_sitio/contacto/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Contacto</title>
+        <link>https://lpast.github.io/mi_primer_sitio/contacto/contacto/</link>
+        <pubDate>Thu, 18 Nov 2021 00:48:36 +0100</pubDate>
+        
+        <guid>https://lpast.github.io/mi_primer_sitio/contacto/contacto/</guid>
+        <description>Lorena Marco
+Social Site [[params.social]] icon = &amp;ldquo;ti-facebook&amp;rdquo; URL = &amp;ldquo;www.facebook.es&amp;rdquo;
+[[params.social]] &amp;quot;instagram&amp;quot;&amp;gt; icon = &amp;ldquo;ti-instagram&amp;rdquo; URL = &amp;ldquo;www.instagram.es&amp;rdquo;</description>
+      </item>
+    
+  </channel>
+</rss>
