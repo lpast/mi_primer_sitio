@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 baseURL = 'https://lpast.github.io/mi_primer_sitio/'
 languageCode = 'en-us'
 title = 'Mi primer Sitio'
 theme = 'color-your-world'
+=======
+baseURL = "https://lpast.github.io/mi_primer_sitio/"
+languageCode = "en-us"
+title = "Mi primer Sitio"
+theme = "Color-Your-World"
+>>>>>>> 25ca30763d97c6de7012efdac2801baddd9bedbc
 
 
 #Idioma por defecto
