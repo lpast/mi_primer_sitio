@@ -39,7 +39,7 @@ Se distinguen tres elementos principales:
 El siguiente diagrama refleja los pasos citados anteriormente.
 
 
-![Proceso de carga](/images/proceso_carga_web.png)
+![Proceso de carga](/static/images/proceso_carga_web.png)
 
 
 

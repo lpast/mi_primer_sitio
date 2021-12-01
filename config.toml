@@ -33,6 +33,7 @@ defaultContentLanguage="es"
 	title = "DWES01"
 	url = "dwes01"
 	weight = 4
+
 [[Languages.es.menu.main]]
 	identifier = "Contacto"
 	name="<i class='fa-solid fa-address-card'></i> Contacto"
@@ -56,7 +57,7 @@ defaultContentLanguage="es"
 [[Languages.en.menu.main]]
 	identifier = "presentation"
 	name ="<i class='fa-solid fa-dove'></i> Presentation"
-	title = "presentation"
+	title = "Presentation"
 	url = "presentation"
 	weight = 2
 [[Languages.en.menu.main]]
