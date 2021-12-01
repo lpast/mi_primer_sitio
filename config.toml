@@ -11,7 +11,7 @@ defaultContentLanguage="es"
   [Languages.es]
   	title = "Mi primer Sitio"
   	languageName="Español"
-	ContentDir ="content/es/"
+	ContentDir ="content/es"
 	weight = 1
 
 [[Languages.es.menu.main]]
@@ -43,7 +43,7 @@ defaultContentLanguage="es"
   [Languages.en]
   	title = "Mi Site"
   	languageName="English"
-	ContentDir ="content/en/"
+	ContentDir ="content/en"
 	weight = 2
 
 
