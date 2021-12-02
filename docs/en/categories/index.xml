@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi Site</title>
-    <link>http://example.org/en/categories/</link>
+    <link>https://lpast.github.io/mi_primer_sitio/en/categories/</link>
     <description>Practica 1 de dwes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://lpast.github.io/mi_primer_sitio/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

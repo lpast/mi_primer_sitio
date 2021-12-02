@@ -4,7 +4,7 @@
   
   
     <url>
-      <loc>http://example.org/dwes01/dwes01/</loc>
+      <loc>https://lpast.github.io/mi_primer_sitio/dwes01/dwes01/</loc>
       
       
         <lastmod>2021-11-18T21:41:25+01:00</lastmod>
@@ -19,14 +19,14 @@
           <xhtml:link
             rel="alternate"
             hreflang="en"
-            href="http://example.org/en/dwes01/dwes01/"
+            href="https://lpast.github.io/mi_primer_sitio/en/dwes01/dwes01/"
             />
         
         
         <xhtml:link
           rel="alternate"
           hreflang="es"
-          href="http://example.org/dwes01/dwes01/"
+          href="https://lpast.github.io/mi_primer_sitio/dwes01/dwes01/"
           />
       
       
@@ -35,7 +35,24 @@
   
   
     <url>
-      <loc>http://example.org/dwes01/dwes02/</loc>
+      <loc>https://lpast.github.io/mi_primer_sitio/dwes01/practica/dwes01/</loc>
+      
+      
+        <lastmod>2021-11-18T21:41:25+01:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://lpast.github.io/mi_primer_sitio/dwes01/dwes02/</loc>
       
       
         <lastmod>2021-11-18T21:41:25+01:00</lastmod>
@@ -50,14 +67,14 @@
           <xhtml:link
             rel="alternate"
             hreflang="en"
-            href="http://example.org/en/dwes01/dwes02/"
+            href="https://lpast.github.io/mi_primer_sitio/en/dwes01/dwes02/"
             />
         
         
         <xhtml:link
           rel="alternate"
           hreflang="es"
-          href="http://example.org/dwes01/dwes02/"
+          href="https://lpast.github.io/mi_primer_sitio/dwes01/dwes02/"
           />
       
       
@@ -66,7 +83,24 @@
   
   
     <url>
-      <loc>http://example.org/dwes01/dwes03/</loc>
+      <loc>https://lpast.github.io/mi_primer_sitio/dwes01/practica/dwes02/</loc>
+      
+      
+        <lastmod>2021-11-18T21:41:25+01:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://lpast.github.io/mi_primer_sitio/dwes01/dwes03/</loc>
       
       
         <lastmod>2021-11-18T21:41:25+01:00</lastmod>
@@ -81,14 +115,14 @@
           <xhtml:link
             rel="alternate"
             hreflang="en"
-            href="http://example.org/en/dwes01/dwes03/"
+            href="https://lpast.github.io/mi_primer_sitio/en/dwes01/dwes03/"
             />
         
         
         <xhtml:link
           rel="alternate"
           hreflang="es"
-          href="http://example.org/dwes01/dwes03/"
+          href="https://lpast.github.io/mi_primer_sitio/dwes01/dwes03/"
           />
       
       
@@ -97,7 +131,24 @@
   
   
     <url>
-      <loc>http://example.org/inicio/</loc>
+      <loc>https://lpast.github.io/mi_primer_sitio/dwes01/practica/dwes03/</loc>
+      
+      
+        <lastmod>2021-11-18T21:41:25+01:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://lpast.github.io/mi_primer_sitio/inicio/inicio/</loc>
       
       
         <lastmod>2021-11-18T20:50:47+01:00</lastmod>
@@ -114,7 +165,7 @@
   
   
     <url>
-      <loc>http://example.org/presentacion/</loc>
+      <loc>https://lpast.github.io/mi_primer_sitio/presentacion/presentacion/</loc>
       
       
         <lastmod>2021-11-18T20:50:47+01:00</lastmod>
@@ -131,7 +182,7 @@
   
   
     <url>
-      <loc>http://example.org/contacto/</loc>
+      <loc>https://lpast.github.io/mi_primer_sitio/contacto/contacto/</loc>
       
       
         <lastmod>2021-11-18T00:48:36+01:00</lastmod>
